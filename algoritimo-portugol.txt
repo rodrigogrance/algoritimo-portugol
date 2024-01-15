@@ -1,0 +1,45 @@
+1- Abro os olhos
+2- Tiro o cobertor de cima do corpo
+3- Levanto da cama
+4- Calço um calçado no chão ao lado da cama
+5- Me dirijo ao banheiro
+6- Vou até a pia
+7- Procuro minha escova de dente
+8- Pego a escova de dente
+9- Procuro a pasta de dente
+10- Pego a pasta de dente
+11- Coloco a pasta de dente na escova de dente
+12- Ligo a torneira e molho a ponta da escova
+13- Desligo a torneira
+14- Levo a escova de dente à boca e escovo meus dentes com ela
+15- Após terminar ligo a torneira novamente e lavo a escova 
+16- Após terminar devolvo ela ao seu lugar
+17- Após devolver a escova coloca água em minhas mãos e levo até a boca para enxaguar ela
+18- Após enxaguar a boca lavo meu rosto
+19- Após lavar o rosto desligo a torneira
+20- Com o rosto ainda molhado pego uma toalha ao lado da pia e seco ele
+21- Devolvo a toalha ao seu local
+22- Saio do banheiro e me dirijo a cozinha
+23- Vou ate a geladeira e abro ela
+24- Pego o leite que se encontra dentro dela
+25- fecho a geladeira
+26- Coloco o leite encima da mesa
+27- Vou ate o armario de utencilios e pego uma xícara 
+28- Pego o leite que está sobre a mesa e encho a xícara até a metade
+29- Após isso vou até o balcão no armario e pego um pote com nescau
+30- Coloco ele sobre a mesa também
+31- Após isso procuro uma colher dentro das gavetas do armario 
+32- Encontro uma , após isso pego ela e fecho a gaveta aberta
+33- Vou ate a mesa , com a colher na mão e abro a tampa do pote de nescau
+34- Coloco a tampa de lado e com a colher em maõs pego um pouco de nescau do pote
+35- Coloco a colher com nescau na xícara de leite
+36- Se a quantidade for pouca
+    1- Pego mais uma colher de nescau e coloco dentro da xícara
+    2- Após ver se a quantidade está boa mecho a colher dentro do leite para misturar tudo
+37- Se a quantidade for suficiente
+    1- Mecho com a colher dentro do leite até misturar tudo
+38- Após misturar tudo coloco todos os itens tirados do lugar em seus devidos lugar, com a colher colocada dentro da pia 
+39- Após tudo isso, pego a xíxara e levo a boca para tomar
+40- Após tomar tudo levo a xícara a pia junto a colher e os lavo
+41- Após lavar seco minhas mãos em um pano de prato na mesa
+42- Acabado isso saio da cozinha...
